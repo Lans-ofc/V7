@@ -99,7 +99,7 @@ let name = conn.getName(m.sender)
 }
 } })*/
 let nowaa = '0'
-let nogww = '6287826940361'
+let nogww = '6283132749084'
 let nogwww = `@${nomorown1.split`@`[0]}`
 let nowa = `${nowaa.split`@`[0]}@s.whatsapp.net`
 let nogw = `${nogww.split`@`[0]}@s.whatsapp.net`
@@ -112,7 +112,7 @@ let id3 = '.sewa'
 let konten = (`*${ucapan()}, ${tag} 👋*`)
 let knnt = `
 Jangan Pernah Mengeluh Karna Doamu Tidak Terkabulkan, Karna Tuhan Memberi Apa Yang Kamu Butuhkan Bukan Apa Yang Kamu Inginkan!!!`
-let ᴛᴇs = `Powered By Vynaa\nCreator By Zeltoria`
+let ᴛᴇs = `Powered By WhatsApp\nCreator By ʟᴀɴꜱᴍᴏᴅᴢ`
 let wkwk = 'https://telegra.ph/file/1b773671be6d2f21f49d7.jpg'
 
 conn.sendButton(m.chat, knnt, ᴛᴇs, pp, [["All Menu", `.? all`],["List Menu", `.tesm`]], fkon )
