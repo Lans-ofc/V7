@@ -185,7 +185,7 @@ global.rpg = {
 global.zenzkey = 'b8040941f7'
 global.lolkey = '2da1fcd209f20ae428d8482f'
 global.caliph = 'Lwlct6wi'
-global.rose = '-'
+global.rose = 'c3d30161f6374a1a3699a758'
 global.zeltoria = '-'
 global.ibeng = '-'
 global.xcode = '-'
@@ -199,10 +199,10 @@ global.APIs = {
 }
 
 global.APIKeys = { 
-  'https://api.lolhuman.xyz': '-',
+  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',
   'https://violetics.pw': 'beta',
-  'https://api.itsrose.site': '-',
-  'https://api-xcoders.site': '-',
+  'https://api.itsrose.site': 'c3d30161f6374a1a3699a758',
+  'https://api-xcoders.site': 'BmIkkRgQOc',
 }
 
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -252,7 +252,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'Official Group'
-global.urlnya = "https://chat.whatsapp.com/CrVqu3mXYJbJFgkbtV0sAR"
+global.urlnya = "https://chat.whatsapp.com/IOH52ExQ22H0xrCLtbhsB7"
 global.dtc = 'Call Owner'
 global.phn = '0831 3274 9084'
 
