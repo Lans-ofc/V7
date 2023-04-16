@@ -1,7 +1,8 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	let text = `
 ┌─「 Donasi 」
-│• Ovo: 0878-2694-0361
+│• Gopay: 0831-3274-9084
+│• Pulsa: 0821-3586-5472
 ❏───────────
 `;
 	const templateButtons = [
