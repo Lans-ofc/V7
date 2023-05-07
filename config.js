@@ -30,7 +30,7 @@ const readMore = more.repeat(4001)
 global.owner = [
 ['6283132749084', true],
 ['6283132749084', 'XyNaa', true],
-['6285760451683', 'XyNaa', true]
+['6283132749084', 'XyNaa', true]
 ]
 global.mods = []
 global.prems = []
@@ -44,7 +44,7 @@ global.nomorwa = '6283132749084'
 global.readMore = readMore
 global.author = 'LansOfc'
 global.namebot = '​Yaemiko-MD'
-global.wm = '© Yaemiko By Zeltoria'
+global.wm = '© Yaemiko By LansOfc'
 global.media = 'https://telegra.ph/file/d368a50703e77d972118b.jpg'
 global.watermark = wm
 global.wm2 = 'Na_Ofc'
@@ -186,10 +186,10 @@ global.zenzkey = 'b8040941f7'
 global.lolkey = '2da1fcd209f20ae428d8482f'
 global.caliph = 'Lwlct6wi'
 global.rose = 'c3d30161f6374a1a3699a758'
-global.zeltoria = '-'
+global.zeltoria = 'Elistz'
 global.ibeng = '-'
-global.xcode = '-'
-global.openai = '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'
+global.xcode = 'BmIkkRgQOc'
+global.openai = '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'
 global.APIs = {
   lol: 'https://api.lolhuman.xyz',
   violetics : 'https://violetics.pw',
